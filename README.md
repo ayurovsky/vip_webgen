@@ -39,7 +39,7 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Richard Moffitt](https://github.com/rmoffitt) | [Folder](/archive/richard/), [js Sandbox](/archive/richard/richard.html) | [Notebook homepage](https://observablehq.com/@rmoffitt?tab=notebooks), [WebGen page](https://observablehq.com/@rmoffitt/webgen), [Simple GDC query tool](https://observablehq.com/@rmoffitt/tcgaplots) | [Faculty website](https://bmi.stonybrookmedicine.edu/people/moffitt_richard) |
 | [Jonas Almeida](http://www.github.com/jonasalmeida) | [Folder](https://github.com/web4bio/webgen/tree/master/archive/jonas), [js Sandbox](https://web4bio.github.io/webgen/archive/jonas/) | [Sandbox](https://beta.observablehq.com/@jonasalmeida/webgen)    | [Firebrowse](https://github.com/episphere/firebrowse) |
 | [Alisa Yurovsky](https://github.com/ayurovsky) |  | [Observable](https://observablehq.com/@ayurovsky) | [Faculty website](https://ayurovsky.github.io/) |
-
+| [Brian_Park](https://github.com/Brian16Park) | | [Website](https://genomegenesis.netlify.app/) | | [Notebook](https://docs.google.com/document/d/1Rzv6_fdBS-1KSObWylFYxYH-_q0L9a70ixUaRhegpw4/edit?usp=sharing) |
 
 
 
