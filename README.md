@@ -40,7 +40,7 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Jonas Almeida](http://www.github.com/jonasalmeida) | [Folder](https://github.com/web4bio/webgen/tree/master/archive/jonas), [js Sandbox](https://web4bio.github.io/webgen/archive/jonas/) | [Sandbox](https://beta.observablehq.com/@jonasalmeida/webgen)    | [Firebrowse](https://github.com/episphere/firebrowse) |
 | [Alisa Yurovsky](https://github.com/ayurovsky) |  | [Observable](https://observablehq.com/@ayurovsky) | [Faculty website](https://ayurovsky.github.io/) |
 | [Jonathan Rong](https://github.com/JonathanR3) | [Notebook](https://docs.google.com/document/d/1QFNwtVohu7skq8OovGkp-mHzsStY_MeZhLRXlPzvrm4/edit?usp=sharing) | [Observable](https://observablehq.com/@jonathan-rong-ws)    | [Dep Map](https://github.com/JonathanR3/webgenvisualizerdepmap), [Community Benefit](https://github.com/JonathanR3/webgenvisualizercommunitybenefit) |
-
+| [Giovanni Terefi](https://github.com/GTeref) | [Notebook](https://docs.google.com/document/d/1pDePu8BtYMlNxpV--ER21p3NiRFPc_W9MM3tr7s0RGQ/edit?usp=sharing) | [Observable](https://observablehq.com/d/2ca3ea29878f962a) |
 
 
 
