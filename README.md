@@ -42,7 +42,7 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Jonathan Rong](https://github.com/JonathanR3) | [Notebook](https://docs.google.com/document/d/1QFNwtVohu7skq8OovGkp-mHzsStY_MeZhLRXlPzvrm4/edit?usp=sharing) | [Observable](https://observablehq.com/@jonathan-rong-ws)    | [Dep Map](https://github.com/JonathanR3/webgenvisualizerdepmap), [Community Benefit](https://github.com/JonathanR3/webgenvisualizercommunitybenefit) |
 | [Giovanni Terefi](https://github.com/GTeref) | [Notebook](https://docs.google.com/document/d/1pDePu8BtYMlNxpV--ER21p3NiRFPc_W9MM3tr7s0RGQ/edit?usp=sharing) | [Observable](https://observablehq.com/d/2ca3ea29878f962a) |
 | [Yang Lu](https://github.com/ylu8888) | [Notebook](https://docs.google.com/document/d/153bDcST4n6PRddMa795rxFFZC3uWDlU8GehsuM_VSu4/edit) | [Observable](https://observablehq.com/d/434676d8de99a0ae) |[Website](https://genomegenesis.netlify.app/)|
-| [Brian_Park](https://github.com/Brian16Park) | | [Website](https://genomegenesis.netlify.app/) | | [Notebook](https://docs.google.com/document/d/1Rzv6_fdBS-1KSObWylFYxYH-_q0L9a70ixUaRhegpw4/edit?usp=sharing) |
+| [Brian_Park](https://github.com/Brian16Park) |  | [Notebook](https://docs.google.com/document/d/1Rzv6_fdBS-1KSObWylFYxYH-_q0L9a70ixUaRhegpw4/edit?usp=sharing) | | [Observable](https://observablehq.com/@brian-park-ws/brian) | | [Website](https://genomegenesis.netlify.app/) |
 
 
 
