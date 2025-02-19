@@ -44,6 +44,7 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Yang Lu](https://github.com/ylu8888) | [Notebook](https://docs.google.com/document/d/153bDcST4n6PRddMa795rxFFZC3uWDlU8GehsuM_VSu4/edit) | [Observable](https://observablehq.com/d/434676d8de99a0ae) |[Website](https://genomegenesis.netlify.app/)|
 | [Brian_Park](https://github.com/Brian16Park) | [Notebook](https://docs.google.com/document/d/1Rzv6_fdBS-1KSObWylFYxYH-_q0L9a70ixUaRhegpw4/edit?usp=sharing) | [Observable](https://observablehq.com/@brian-park-ws/brian) | [Website](https://genomegenesis.netlify.app/) |
 | [Brandon Wong](https://github.com/brandon0719) | [Notebook](https://observablehq.com/d/a730493af48fe046) | [Observable](https://observablehq.com/d/a730493af48fe046) | [Website](https://genomegenesis.netlify.app/) |
+| [Lindy Lin](https://github.com/lindy932) | [Notebook](https://docs.google.com/document/d/1JTkpjAHrrsq615wGbI9M7_qZrMNEHV8jisEkxSnI2-8/edit?usp=sharing)| [Observable](https://observablehq.com/@lindy-lins-workspace)||
 
 
 
