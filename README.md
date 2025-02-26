@@ -45,7 +45,8 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Brian_Park](https://github.com/Brian16Park) | [Notebook](https://docs.google.com/document/d/1Rzv6_fdBS-1KSObWylFYxYH-_q0L9a70ixUaRhegpw4/edit?usp=sharing) | [Observable](https://observablehq.com/@brian-park-ws/brian) | [Website](https://genomegenesis.netlify.app/) |
 | [Brandon Wong](https://github.com/brandon0719) | [Notebook](https://observablehq.com/d/a730493af48fe046) | [Observable](https://observablehq.com/d/a730493af48fe046) | [Website](https://genomegenesis.netlify.app/) |
 | [Lindy Lin](https://github.com/lindy932) | [Notebook](https://docs.google.com/document/d/1JTkpjAHrrsq615wGbI9M7_qZrMNEHV8jisEkxSnI2-8/edit?usp=sharing)| [Observable](https://observablehq.com/@lindy-lins-workspace)|
-| [Akib Yeahia](https://github.com/AkibY04) | [Notebook](https://docs.google.com/document/d/1Emz8VGbL9iEnqPW_Nciza8WwVZewKZZaM_vDmR6KmF4/edit?usp=sharing)| [Observable](https://observablehq.com/d/c3f89568bb516cc7)||
+| [Akib Yeahia](https://github.com/AkibY04) | [Notebook](https://docs.google.com/document/d/1Emz8VGbL9iEnqPW_Nciza8WwVZewKZZaM_vDmR6KmF4/edit?usp=sharing)| [Observable](https://observablehq.com/d/c3f89568bb516cc7)|
+| [Layton Madeira](https://github.com/LaytonMadeira) | [Notebook](https://docs.google.com/document/d/1GJQzFLocTeUDqkR8KYlO9D2V36U7l76OpLVKoB15v-k/edit?usp=sharing)| [Observable](https://observablehq.com/d/c5b1f4d8b44c38e2)||
 
 
 #### Alumni
