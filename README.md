@@ -48,6 +48,8 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Akib Yeahia](https://github.com/AkibY04) | [Notebook](https://docs.google.com/document/d/1Emz8VGbL9iEnqPW_Nciza8WwVZewKZZaM_vDmR6KmF4/edit?usp=sharing)| [Observable](https://observablehq.com/d/c3f89568bb516cc7)|
 | [Layton Madeira](https://github.com/LaytonMadeira) | [Notebook](https://docs.google.com/document/d/1GJQzFLocTeUDqkR8KYlO9D2V36U7l76OpLVKoB15v-k/edit?usp=sharing)| [Observable](https://observablehq.com/d/c5b1f4d8b44c38e2)||
 | [Harisa Khan](https://github.com/hkhan015) | [Notebook](https://docs.google.com/document/d/1gw6_wGcOB_LiLW7uyJt6ZcSvk7KMXLyJ7dh-WzDpGsM/edit?usp=sharing)| [Observable](https://observablehq.com/d/de9c1bf1f80850cc)||
+| [Kushal Tripathi](https://github.com/Cashal17/) | [Notebook](https://docs.google.com/document/d/1dYCH6z9cDiP62kC4WDKY2yCqxOAsvDbwWoewDmJVOAM/edit?usp=sharing)| [Application Repo](https://github.com/Cashal17/webgen-crash-atlas)||
+
 
 #### Alumni
   * [Kevin Murgas](https://github.com/kevin-murgas)
