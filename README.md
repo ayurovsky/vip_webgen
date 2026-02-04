@@ -50,7 +50,7 @@ See our previous (completed) incarnation of the [Webgen Project](https://github.
 | [Harisa Khan](https://github.com/hkhan015) | [Notebook](https://docs.google.com/document/d/1gw6_wGcOB_LiLW7uyJt6ZcSvk7KMXLyJ7dh-WzDpGsM/edit?usp=sharing)| [Observable](https://observablehq.com/d/de9c1bf1f80850cc)||
 | [Kushal Tripathi](https://github.com/Cashal17/) | [Notebook](https://docs.google.com/document/d/1dYCH6z9cDiP62kC4WDKY2yCqxOAsvDbwWoewDmJVOAM/edit?usp=sharing)| [Application Repo](https://github.com/Cashal17/webgen-crash-atlas)||
 | [Artemiy Polyanskiy](https://github.com/Tiggster2005) | [Notebook](https://docs.google.com/document/d/1ljk56Db7oFNvkp4SJzcMFbZ8C8rYyCj7guiTddzuCKw/edit?tab=t.0) | [Observable](https://observablehq.com/d/6951056cfa0e134b)||
-
+| [Siena Rahman](https://github.com/sienarahman) | [Notebook](https://docs.google.com/document/d/1CGhOWhDKMhV-WqvgvUmQL5aLKfJTKi9QRaRXF4spuJE/edit?usp=sharing) | [Observable](https://observablehq.com/@sr-webgen?tab=recents)||
 
 #### Alumni
   * [Kevin Murgas](https://github.com/kevin-murgas)
